@@ -1,0 +1,2 @@
+# Human_Activity_Recognition_Using_smartphone
+Using Boosting algorithm
